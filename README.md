@@ -1,1 +1,1 @@
-# coding-project-template
+# Javascript Full-Stack development project
